@@ -1,0 +1,50 @@
+# Kodi Media Center language file
+# Addon Provider: leopheard
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: leopheard@gmail.com\n"
+"POT-Creation-Date: 2019-08-12 HO:MI+ZONE\n"
+"PO-Revision-Date: 2019-08-12 HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "WBAI-FM livestream"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Tall Tales In The Big City"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Trump Watch With Jesse Lent"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Mansion For A Rat"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Leonard Lopate At Large"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Paul DeRienzo"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Women Fight Back"
+msgstr ""
+
+msgctxt "#30007"
+msgid "How To Make It In The City!"
+msgstr ""
+
+
+# empty string with id 32003
