@@ -2,7 +2,18 @@
 
 <img src="https://www.wbai.org/assets/header-logo-small.jpg"><br>
 
-<a href="www.wbai.org">WBAI</a> is listener-supported radio. As a member of the <a href="https://pacifica.org/">Pacifica</a> chain of radio stations, it provides a vast array of original programming to listeners in the Metropolitan New York City region and worldwide on this site.
+<a href="www.wbai.org">WBAI</a> is listener-supported radio. As a member of the <a href="https://pacifica.org/">Pacifica</a> chain of radio stations, it provides a vast array of original programming to listeners in the Metropolitan New York City region and worldwide on this site.<br>
+
+Addon contains:<br>
+
+- WBAI-FM livestream<br>
+- Tall Tales In The Big City<br>
+- Trump Watch With Jesse Lent<br>
+- Mansion For A Rat<br>
+- Leonard Lopate At Large<br>
+- Paul DeRienzo<br>
+- Women Fight Back<br>
+- How To Make It In The City!<br>
 
 <a href="www.kodi.tv">Kodi</a> (formerly known as XBMC) is an award-winning free and open source (GPL) software media player and entertainment hub that can be installed on Linux, OSX, Windows, iOS and Android, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.<br>
 
